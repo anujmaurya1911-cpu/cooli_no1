@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "egg"{
-name = "baba"
+name = "baba20"
 location = "centralindia"
 }
